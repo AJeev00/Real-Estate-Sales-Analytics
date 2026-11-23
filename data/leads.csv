@@ -1,0 +1,31 @@
+lead_id,created_date,city,channel,status,budget_band,booking_value_inr
+LD0001,2025-04-13,Gurugram,Channel Partner,Lost,₹50L–₹1Cr,0
+LD0002,2025-04-21,Pune,Channel Partner,Site Visit,₹3Cr+,0
+LD0003,2026-06-01,Gurugram,Channel Partner,Lost,₹50L–₹1Cr,0
+LD0004,2026-01-21,Pune,Digital,Negotiation,₹2Cr–₹3Cr,0
+LD0005,2025-07-03,Pune,Digital,Contacted,₹1Cr–₹2Cr,0
+LD0006,2025-09-30,Pune,Digital,Negotiation,₹1Cr–₹2Cr,0
+LD0007,2025-03-14,Pune,Events,Lost,₹50L–₹1Cr,0
+LD0008,2026-09-19,Hyderabad,Channel Partner,Negotiation,₹50L–₹1Cr,0
+LD0009,2025-05-27,Mumbai,Channel Partner,Lost,₹1Cr–₹2Cr,0
+LD0010,2026-01-10,Pune,Digital,New,₹50L–₹1Cr,0
+LD0011,2025-03-16,Mumbai,Digital,Negotiation,₹50L–₹1Cr,0
+LD0012,2026-09-08,Pune,Channel Partner,New,₹1Cr–₹2Cr,0
+LD0013,2025-10-11,Bengaluru,Digital,Converted,₹3Cr+,19391092
+LD0014,2026-09-17,Gurugram,Channel Partner,Converted,₹1Cr–₹2Cr,29345951
+LD0015,2025-10-17,Mumbai,Digital,Lost,₹2Cr–₹3Cr,0
+LD0016,2026-07-18,Gurugram,Channel Partner,Site Visit,₹2Cr–₹3Cr,0
+LD0017,2025-04-13,Gurugram,Events,Contacted,₹50L–₹1Cr,0
+LD0018,2026-03-05,Hyderabad,Digital,Converted,₹2Cr–₹3Cr,12574602
+LD0019,2026-07-29,Pune,Digital,Negotiation,₹1Cr–₹2Cr,0
+LD0020,2026-08-30,Gurugram,Channel Partner,New,₹50L–₹1Cr,0
+LD0021,2026-04-23,Mumbai,Referral,Negotiation,₹50L–₹1Cr,0
+LD0022,2026-01-21,Mumbai,Digital,Contacted,₹3Cr+,0
+LD0023,2026-05-28,Gurugram,Channel Partner,Negotiation,₹2Cr–₹3Cr,0
+LD0024,2025-05-16,Bengaluru,Digital,Contacted,₹3Cr+,0
+LD0025,2025-10-02,Gurugram,Digital,Contacted,₹50L–₹1Cr,0
+LD0026,2025-10-16,Pune,Digital,Contacted,₹2Cr–₹3Cr,0
+LD0027,2025-04-14,Gurugram,Channel Partner,Negotiation,₹3Cr+,0
+LD0028,2026-10-01,Gurugram,Referral,Contacted,₹3Cr+,0
+LD0029,2025-03-26,Pune,Digital,Converted,₹50L–₹1Cr,24027144
+LD0030,2026-05-30,Bengaluru,Digital,Lost,₹50L–₹1Cr,0
